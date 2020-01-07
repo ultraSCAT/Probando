@@ -17,5 +17,6 @@ Tal parece que se está acabando el curso, pero ahora sé:
 * clean
 * cherry-pick
 
+
 > Entre otras cosas alv, aunque no recuerdo bien cómo hacer las llaves ssh, pero puedo buscar un tutorial por ahí
 
